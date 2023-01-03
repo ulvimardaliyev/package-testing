@@ -1,0 +1,7 @@
+rootProject.name = 'demo-project-git-dependency'
+//sourceControl {
+//
+//    gitRepository('git@github.com:ulvimardaliyev/grpc-proto-files.git') {
+//        producesModule('grpc-proto-files:user-service/proto')
+//    }
+//}
